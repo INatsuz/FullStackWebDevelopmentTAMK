@@ -1,0 +1,26 @@
+1. React
+React is a framework for web development. You take advantage of components and some other functionalities to
+reduce development time and to increase responsiveness and interactibility with the website.
+
+2. React Component
+A React Component is a piece of code that you can reuse and use like any other tag in HTML.
+You can make abstract behavior and pass the information when programatically.
+
+3. Single-page application
+A Single-page application is an application where you don't need to refresh at all.
+React does this by changing the content of the page dynamically through navigators
+
+4. Declarative programming (versus imperative programming)
+The most common way to differentiate the two is that Declarative Programming describes "WHAT" you do and Imperative Programming
+describes "HOW" you do it.
+The important thing to understand is that declarative programming relies on the underlying imperative programming. Declarative
+programming allows you to perform actions that have been abstracted and simplified.
+
+5. JSX
+JSX is an addition to JS that allows you to define elements in the same way that you code HTML. This allows you to design the UI
+very quickly and in a way most web developers are already familiar with.
+
+6. Asynchronous (versus synchronous)
+Synchronous is a practice where each instruction must be completed for the next one to start.
+Asynchronous allows you to run multiple things at once and skip ahead of code that should be running in the background
+without pausing the execution of the rest of the program.
